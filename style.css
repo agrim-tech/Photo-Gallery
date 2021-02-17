@@ -1,0 +1,33 @@
+.image-section{
+    display:flex;
+    justify-content:center;
+    margin-top:15px;
+}
+.section-style{
+    margin-right:25px;
+    margin-left:25px;
+}
+img{
+    height:403px;
+    width:280px;
+}
+#myCarousel img{
+     height:408px;
+     width:280px;
+     margin-left:450px;
+     margin-right:450px;
+}
+body{
+    text-align:center;
+    background-image:url(494949.png);
+}
+.container{
+    text-align:center;
+}
+section{
+    background-color:494949;
+}
+.title{
+    font-family: 'Kufam', cursive;
+    color:black;
+}
